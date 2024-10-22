@@ -1,6 +1,5 @@
-# Torplem - Mathematical Library
 
-![Nova Logo Torplem](NovaLogoTorplem.png)
+<img src="NovaLogoTorplem.png" style="width: 300px">
 
 Torplem é uma biblioteca matemática poderosa desenvolvida em **Lua**, **JavaScript** e **Python**. Com um conjunto abrangente de funções matemáticas, Torplem pode ser facilmente integrada em seus projetos para realizar operações matemáticas complexas.
 
